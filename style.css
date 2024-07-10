@@ -1,0 +1,33 @@
+body{
+    background: rgb(0, 0, 0);
+    background-image: url(./1354313.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#a{
+    color: rgb(98, 179, 179);
+}
+#b{
+    color:rgb(131, 119, 119);
+}
+#c{
+    background-color: black;
+}
+#main{
+    color: rgb(0, 0, 0);
+    height: 400px;
+    width: 500px;
+    border: 3px solid rgb(0, 0, 0);
+    margin: auto;
+    margin-top: 200px;
+    background-color: wheat;
+
+}
+#Rules{
+    text-align:justify;
+    margin-left: 80px;
+
+}
+#btn{
+   color: tomato;
+}
